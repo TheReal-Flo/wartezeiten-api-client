@@ -110,10 +110,3 @@ Contributions, feature requests, and issues are welcome! Feel free to open a new
 
 - Thanks to the Wartezeiten.APP / Waitingtimes.APP team for providing a robust API.
 - Thanks to the open source community for their continuous contributions and support.
-
-```
-
----
-
-This `README.md` provides a clear overview of the package, installation, usage, API methods, and configuration details. Adjust or expand the content as needed for your project's requirements.
-```
